@@ -80,14 +80,13 @@
       <h3 align="center">TEKBOT - Suporte a Sistema ERP com IA</h3>
       <p align="center">
         <a href="https://github.com/ThiagoFPires/TEKBOT" target="_blank">
-           <img src="https://[LINK_DA_IMAGEM_DO_SEU_PROJETO]" alt="Demonstração do Projeto TEKBOT" style="max-width:100%;">
         </a>
       </p>
       <p align="center">
-        <strong>Descrição:</strong> [ESCREVA AQUI UMA BREVE DESCRIÇÃO DO PROJETO. Ex: Chatbot inteligente construído para fornecer suporte e tirar dúvidas sobre um sistema ERP, utilizando modelos de linguagem para entender e responder às perguntas dos usuários em tempo real.]
+        <strong>Descrição:Chatbot inteligente construído para fornecer suporte e tirar dúvidas sobre um sistema ERP, utilizando modelos de linguagem para entender e responder às perguntas dos usuários em tempo real.</strong>
       </p>
       <p align="center">
-        <strong>Tecnologias:</strong> [ESCREVA AQUI AS TECNOLOGIAS. Ex: Python, Gemini, Vue.js, Node.js]
+        <strong>Tecnologias: Python, Llama3 7B, Vue.js, Ollama</strong>
       </p>
       <p align="center">
         <a href="https://github.com/ThiagoFPires/TEKBOT" target="_blank">
