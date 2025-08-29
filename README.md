@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://[COLE AQUI O LINK PARA UMA IMAGEM/BANNER DE SUA ESCOLHA]" width="800px" alt="Banner do Perfil">
+  <img src="https://private-us-east-1.manuscdn.com/sessionFile/jytH3q2WRHGJtAcwtpa9XB/sandbox/UXWXaUisHroFyc9ovfBiCC_1756494378082_na1fn_L2hvbWUvdWJ1bnR1L2dpdGh1Yl9iYW5uZXJfdjI.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvanl0SDNxMldSSEdKdEFjd3RwYTlYQi9zYW5kYm94L1VYV1hhVWlzSHJvRnljOW92ZkJpQ0NfMTc1NjQ5NDM3ODA4Ml9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJkcGRHaDFZbDlpWVc1dVpYSmZkakkucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=NQeYH01~bp9~h8YI2W9-wyHVGjjXkT4WpwHzmh-Chaf~EkcBLLb0IRLfmhqc0gcaoTTEVplXMzqN87IAYZLA-Yor9jSh9zxDlH2c-oE0mVD9Fe3nSUG1eUWggq3aINRD2LXWR3TY-~75l8ZSPnZKvS2dUlcj~Y1Sf4KXL13yNKcUrATt~gspsR-QApCld7qwfBVosIG8LVtNCmFTX4tJJGc5Ic69G52XwDh51UGlakW9MbcpM91pdKFhdSJdqMIci~Wvrh12uQd~wHxDS4sx3jpwdUMCWK~oPH3s5DutjajNKAV7HTHuO8Iu5BwE7Og~Hg088LNipDc8sVrMlg~XDQ__" width="800px" alt="Banner do Perfil">
 </p>
 
-<h1 align="center">Olá! Eu sou o Thiago Pires 👋</h1>
+<h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Vue.js 3, TypeScript e explorar o universo da Inteligência Artificial.</em>
 </p>
@@ -21,9 +21,9 @@
   <br><br>
   - 🔭 Atualmente trabalhando em um projeto chamado <b>TEKBOT</b>.
   <br>
-  - 🌱 Aprendendo mais sobre Python, IA e Vue.js 3.
+  - 🌱 Aprendendo mais sobre Python, IA's e Vue.js 3.
   <br>
-  - 💬 Me pergunte sobre: Vue.js, Node.js, TypeScript e Prisma.
+  - 💬 Me pergunte sobre: IA, MongoDB, TypeScript.
   <br>
   - 📫 Como me encontrar: <b>contato.thiagofreitasp@gmail.com</b>
 </p>
