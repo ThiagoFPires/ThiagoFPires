@@ -96,10 +96,13 @@
 ---
 ### 📊 Minhas Estatísticas no GitHub
 
+### 📊 Minhas Estatísticas no GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&theme=transparent&bg_color=e0f2fe&title_color=0c4a6e&text_color=075985&icon_color=0ea5e9"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=transparent&bg_color=e0f2fe&title_color=0c4a6e&text_color=075985"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&locale=pt_BR&hide_border=true&background=e0f2fe&ring=0ea5e9&fire=0ea5e9&currStreakNum=075985&sideNums=075985&currStreakLabel=075985&sideLabels=075985&dates=0c4a6e" alt="Streak Stats"/>
 </p>
