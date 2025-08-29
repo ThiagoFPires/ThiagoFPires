@@ -99,6 +99,8 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagens%20Mais%20Utilizadas&count_private=true)
 <br>
-![Status geral](https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13766546/153162391-2912a779-d3d2-4511-8603-5a7a58433367.gif" width="100px" alt="Pac-Man eating dots"/>
+</p>
 
 </div>
