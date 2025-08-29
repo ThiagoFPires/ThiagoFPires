@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ThiagoFPires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/%20Thiago-Freitas-P" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:thiago.fpires.contato@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -25,7 +25,7 @@
   <br>
   - 💬 Me pergunte sobre: Vue.js, Node.js, TypeScript e Prisma.
   <br>
-  - 📫 Como me encontrar: <b>thiago.fpires.contato@gmail.com</b> (Lembre-se de alterar para seu email)
+  - 📫 Como me encontrar: <b>contato.thiagofreitasp@gmail.com</b>
 </p>
 
 ---
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </td>
     <td valign="top" width="50%">
-      <strong>Backend</strong><br><br>
+      <strong>Back-end</strong><br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
