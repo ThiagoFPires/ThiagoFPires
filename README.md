@@ -4,11 +4,11 @@
 
 <h1 align="center">Olá! Eu sou o [Seu Nome] 👋</h1>
 <p align="center">
-  <em>Desenvolvedor Full-Stack apaixonado por criar soluções inovadoras com Vue.js, Node.js e explorar o universo da Inteligência Artificial.</em>
+  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Vue3, TypeScript e explorar o universo da Inteligência Artificial.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[SEU-USUARIO-LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/ThiagoFPires" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:[SEU-EMAIL@EXEMPLO.COM]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
@@ -17,11 +17,11 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor com experiência em construir aplicações web modernas e eficientes. Tenho um forte interesse no ecossistema JavaScript/TypeScript e estou sempre buscando aprender e aplicar novas tecnologias, especialmente no campo de IAs generativas como Gemini e Llama3. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de sistemas e na integração de modelos de linguagem em projetos práticos.
+  Sou um desenvolvedor Full-stack em formação com experiência em construir aplicações web modernas e eficientes. Tenho um forte interesse no ecossistema JavaScript/TypeScript e estou sempre buscando aprender e aplicar novas tecnologias, especialmente no campo de IAs generativas como Gemini e Llama3. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de sistemas e na integração de modelos de linguagem em projetos práticos.
   <br><br>
-  - 🔭 Atualmente trabalhando em um projeto de [Descreva seu projeto atual].
+  - 🔭 Atualmente trabalhando em um projeto chamado TEKBOT.
   <br>
-  - 🌱 Aprendendo mais sobre [Mencione uma tecnologia que está estudando].
+  - 🌱 Aprendendo mais sobre Python, IA e Vue3.
   <br>
   - 💬 Me pergunte sobre: Vue.js, Node.js, TypeScript e Prisma.
   <br>
@@ -39,8 +39,7 @@
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </td>
     <td valign="top" width="50%">
       <strong>Backend</strong><br><br>
@@ -76,42 +75,12 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">Nome do Projeto 1 (Ex: API de Gerenciamento)</h3>
+      <h3 align="center">TEKBOT (Ex: Sistema para suporte a sistema ERP feito com IA)</h3>
       <p align="center">
-        <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 1]" target="_blank">
-          <img src="[LINK PARA UM GIF OU IMAGEM DO PROJETO 1]" alt="Demonstração do Projeto 1" style="max-width:100%;">
+        <a href="https://github.com/ThiagoFPires/TEKBOT" target="_blank">
         </a>
       </p>
-      <p>
-        <strong>Descrição:</strong> Breve descrição do seu projeto, o problema que ele resolve e suas principais funcionalidades.
-      </p>
-      <p>
-        <strong>Tecnologias:</strong> Node.js, Prisma, TypeScript, MySQL, Docker.
-      </p>
-      <p align="center">
-        <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 1]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
-        </a>
-        </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 2 (Ex: Chatbot com IA)</h3>
-      <p align="center">
-        <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 2]" target="_blank">
-          <img src="[LINK PARA UM GIF OU IMAGEM DO PROJETO 2]" alt="Demonstração do Projeto 2" style="max-width:100%;">
-        </a>
-      </p>
-      <p>
-        <strong>Descrição:</strong> Uma aplicação Vue.js que se conecta a uma API local para interagir com o modelo Llama3 através do Ollama.
-      </p>
-      <p>
-        <strong>Tecnologias:</strong> Vue.js 3, TypeScript, Ollama, Llama3, Node.js.
-      </p>
-      <p align="center">
-        <a href="[LINK PARA O REPOSITÓRIO DO PROJETO 2]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
-        </a>
-      </p>
     </td>
   </tr>
 </table>
@@ -121,6 +90,6 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
 </p>
