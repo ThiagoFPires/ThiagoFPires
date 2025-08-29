@@ -95,12 +95,11 @@
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&theme=transparent&bg_color=121826&title_color=93c5fd&text_color=dbeafe&icon_color=60a5fa"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=transparent&bg_color=121826&title_color=93c5fd&text_color=dbeafe"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&locale=pt-br"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&locale=pt_BR&hide_border=true&background=121826&ring=60a5fa&fire=60a5fa&currStreakNum=dbeafe&sideNums=dbeafe&currStreakLabel=dbeafe&sideLabels=dbeafe&dates=93c5fd" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Streak Stats"/>
 </p>
