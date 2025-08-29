@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
-  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Vue.js 3, TypeScript e explorar o universo da Inteligência Artificial.</em>
+  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com VueJS, TypeScript e explorar o universo da Inteligência Artificial.</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <br><br>
   - 🔭 Atualmente trabalhando em um projeto chamado <b>TEKBOT</b>.
   <br>
-  - 🌱 Aprendendo mais sobre Python, IA's e Vue.js 3.
+  - 🌱 Aprendendo mais sobre Python, IA's e VueJS.
   <br>
   - 💬 Me pergunte sobre: IA, MongoDB, TypeScript.
   <br>
