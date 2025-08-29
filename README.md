@@ -79,7 +79,7 @@
         </a>
       </p>
       <p align="center">
-        <strong>Descrição:Chatbot inteligente construído para fornecer suporte e tirar dúvidas sobre um sistema ERP, utilizando modelos de linguagem para entender e responder às perguntas dos usuários em tempo real.</strong>
+        <strong>Chatbot inteligente construído para fornecer suporte e tirar dúvidas sobre um sistema ERP, utilizando modelos de linguagem para entender e responder às perguntas dos usuários em tempo real.</strong>
       </p>
       <p align="center">
         <strong>Tecnologias: Python, Llama3 7B, Vue.js, Ollama</strong>
