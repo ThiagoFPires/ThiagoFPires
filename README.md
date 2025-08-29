@@ -96,13 +96,11 @@
 ---
 ### 📊 Minhas Estatísticas no GitHub
 
-### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&theme=transparent&bg_color=e0f2fe&title_color=0c4a6e&text_color=075985&icon_color=0ea5e9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&theme=transparent&bg_color=121826&title_color=93c5fd&text_color=dbeafe&icon_color=60a5fa"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=transparent&bg_color=e0f2fe&title_color=0c4a6e&text_color=075985"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=transparent&bg_color=121826&title_color=93c5fd&text_color=dbeafe"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&locale=pt_BR&hide_border=true&background=e0f2fe&ring=0ea5e9&fire=0ea5e9&currStreakNum=075985&sideNums=075985&currStreakLabel=075985&sideLabels=075985&dates=0c4a6e" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ThiagoFPires&locale=pt_BR&hide_border=true&background=121826&ring=60a5fa&fire=60a5fa&currStreakNum=dbeafe&sideNums=dbeafe&currStreakLabel=dbeafe&sideLabels=dbeafe&dates=93c5fd" alt="Streak Stats"/>
 </p>
