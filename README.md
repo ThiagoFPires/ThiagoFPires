@@ -95,6 +95,10 @@
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
+<div align="center">
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagens%20Mais%20Utilizadas&count_private=true)
 <br>
 ![Status geral](https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade)
+
+</div>
