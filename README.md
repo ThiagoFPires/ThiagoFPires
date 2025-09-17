@@ -59,7 +59,6 @@
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </td>
   </tr>
 </table>
