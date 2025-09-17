@@ -81,7 +81,7 @@
         <strong>Chatbot inteligente construído para fornecer suporte e tirar dúvidas sobre um sistema ERP, utilizando modelos de linguagem para entender e responder às perguntas dos usuários em tempo real.</strong>
       </p>
       <p align="center">
-        <strong>Tecnologias: Python, Llama3 7B, Vue.js, Ollama</strong>
+        <strong>Tecnologias: Python, Gemini, Vue.js, Ollama</strong>
       </p>
       <p align="center">
         <a href="https://github.com/ThiagoFPires/TEKBOT" target="_blank">
