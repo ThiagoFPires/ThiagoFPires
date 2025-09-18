@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
-  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com VueJS, TypeScript e explorar o universo da Inteligência Artificial.</em>
+  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Python, VueJS e explorar o universo da Inteligência Artificial.</em>
 </p>
 
 <p align="center">
