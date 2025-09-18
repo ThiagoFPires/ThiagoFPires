@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
+ <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Python, VueJS e explorar o universo da Inteligência Artificial.</em>
 </p>
@@ -96,18 +96,9 @@
 
 ### Minhas Estatísticas no GitHub 📊
 
-### Minhas Estatísticas no GitHub 📊
-
 <div align="center">
-  <a href="https://github.com/ThiagoFPires">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=cobalt"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=cobalt&locale=pt_BR" alt="GitHub Streak" />
-  </a>
+  <a href="https://github.com/ThiagoFPires">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=prussian"/>
+  </a>
 </div>
