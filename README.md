@@ -96,14 +96,18 @@
 
 ### Minhas Estatísticas no GitHub 📊
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true" />
-</picture>
+### Minhas Estatísticas no GitHub 📊
+
+<div align="center">
+  <a href="https://github.com/ThiagoFPires">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=cobalt"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=cobalt&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
