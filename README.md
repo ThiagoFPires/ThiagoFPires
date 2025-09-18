@@ -98,7 +98,13 @@
 
 <p align="center">
   <a href="https://github.com/ThiagoFPires">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoFPires&theme=github_dark" alt="Resumo do Perfil"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=github_dark" alt="Estatísticas Gerais"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="Estatísticas de ThiagoFPires"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=prussian" alt="Linguagens Mais Usadas"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoFPires&theme=react-dark&hide_border=true" alt="Gráfico de Atividade"/>
   </a>
 </p>
