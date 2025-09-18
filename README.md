@@ -98,8 +98,8 @@
 
 <p align="center">
   <a href="https://github.com/ThiagoFPires">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoFPires&theme=tokyonight" alt="Resumo do Perfil"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de ThiagoFPires"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoFPires&theme=cobalt" alt="Resumo do Perfil"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="Estatísticas de ThiagoFPires"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=cobalt" alt="Linguagens Mais Usadas"/>
   </a>
 </p>
