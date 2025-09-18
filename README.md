@@ -93,26 +93,17 @@
 </table>
 
 ---
-### 📊 Minhas Estatísticas no GitHub
-<h3 align="center">📊 Minhas Estatísticas do GitHub</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade" alt="Status geral do GitHub de ThiagoFPires"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagens%20Mais%20Utilizadas&count_private=true" alt="Linguagens mais usadas por ThiagoFPires"/>
-    </td>
-  </tr>
-</table>
+### Minhas Estatísticas no GitHub 📊
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ThiagoFPires&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ThiagoFPires&theme=github_dark&locale=pt_BR)](https://git.io/streak-stats)
-
+  <a href="https://github.com/ThiagoFPires">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoFPires&bg_color=0D1117&color=78808C&line=228B22&point=228B22&area=true&hide_border=true&locale=pt_BR)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+</div>
