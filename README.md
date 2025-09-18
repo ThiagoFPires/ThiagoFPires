@@ -96,8 +96,9 @@
 
 ### Minhas Estatísticas no GitHub 📊
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ThiagoFPires">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true" alt="Estatísticas de ThiagoFPires"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=prussian" alt="Linguagens Mais Usadas"/>
   </a>
-</div>
+</p>
