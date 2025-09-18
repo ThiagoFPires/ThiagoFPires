@@ -100,9 +100,9 @@
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=10&theme=github_dark&custom_title=Linguagens%20Mais%20Utilizadas&count_private=true" alt="Linguagens mais usadas"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gualteralbino&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade" alt="Status geral"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&custom_title=Atividade" alt="Status geral"/>
       </td>
     </tr>
   </table>
