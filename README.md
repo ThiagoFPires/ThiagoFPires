@@ -95,15 +95,18 @@
 ---
 ### Minhas Estatísticas no GitHub 📊
 
+### Minhas Estatísticas no GitHub 📊
+
 <div align="center">
   <a href="https://github.com/ThiagoFPires">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFPires&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=prussian"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ThiagoFPires&theme=cobalt&locale=pt_BR" alt="GitHub Streak" />
   </a>
 </div>
