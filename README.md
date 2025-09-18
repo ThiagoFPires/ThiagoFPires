@@ -103,9 +103,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFPires&layout=compact&langs_count=7&theme=prussian" alt="Linguagens Mais Usadas"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoFPires&theme=react-dark&hide_border=true" alt="Gráfico de Atividade"/>
-  </a>
-</p>
