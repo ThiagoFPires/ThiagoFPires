@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
-  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Python, VueJS e explorar o universo da Inteligência Artificial.</em>
+  <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Python, Vue.js e explorar o universo da Inteligência Artificial.</em>
 </p>
 
 <p align="center">
@@ -10,24 +10,17 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 🚀 Sobre Mim
 
-<p>
-  <ul>
-    <li>🎓 <b>Graduando em Ciência da Computação</b>, focado em resolver problemas complexos através de código e inovação.</li>
-    <li>🧠 <b>Especialista em desenvolvimento de aplicações e automações</b> com consumo de recursos de Deep Learning e IAs generativas (como Gemini, Claude e Llama3).</li>
-  </ul>
-  Tenho forte atuação no ecossistema Python (utilizando frameworks como FastAPI e PyTorch) e na criação de integrações back-end robustas para sistemas corporativos e rotinas financeiras. Além disso, aplico tecnologias de visão computacional — como arquiteturas EfficientNet — para análise de imagens na área da saúde. Construo interfaces modernas e dinâmicas utilizando Vue.js e busco sempre projetar arquiteturas escaláveis, unindo o melhor do desenvolvimento full-stack com soluções avançadas de Inteligência Artificial e sistemas RAG.
-  <br><br>
-  - 🔭 Atualmente desenvolvendo o <b>TEKBOT</b> (chatbot inteligente para suporte a ERP) e pesquisando padrões em termogramas mamários usando Deep Learning.<br>
-  - 🌱 Aprofundando estudos em Transfer Learning, orquestração de LLMs locais com Ollama e arquitetura de software.<br>
-  - 💬 Me pergunte sobre: IA, Integrações de Sistemas, Python e Vue.js.<br>
-  - 📫 Como me encontrar: <b>contato.thiagofreitasp@gmail.com</b>
-</p>
+🎓 **Graduando em Ciência da Computação.**
+💼 **Especialista no desenvolvimento de back-ends corporativos**, rotinas financeiras complexas e integrações com hubs de e-commerce.
+🏗️ **Experiência sólida na construção de APIs escaláveis** (Python/FastAPI) e na modelagem de bancos de dados relacionais e NoSQL.
+💻 **Desenvolvimento de aplicações e interfaces dinâmicas** utilizando o ecossistema Vue.js, focadas em performance e usabilidade.
+🤖 **Criação de automações inteligentes**, integração de fluxos de sistemas e orquestração de IAs Generativas (Claude, Gemini, Ollama) para sistemas RAG, além de visão computacional com Deep Learning (PyTorch).
 
 ---
 
-### 🚀 Minha Stack de Tecnologias
+### 🛠️ Minha Stack de Tecnologias
 
 <table>
   <tr>
@@ -101,7 +94,7 @@
 
 ---
 
-### Minhas Estatísticas no GitHub 📊
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
   <a href="https://github.com/ThiagoFPires">
