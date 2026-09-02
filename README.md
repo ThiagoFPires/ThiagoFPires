@@ -50,7 +50,7 @@
     <td valign="top" width="50%">
       <strong>IAs Generativas & LLMs</strong><br>
       <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
-      <img src="https://img.shields.io/badge/Anthropic%20Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
       <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
