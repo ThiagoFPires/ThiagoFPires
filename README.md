@@ -48,17 +48,18 @@
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </td>
     <td valign="top" width="50%">
-      <strong>Inteligência Artificial & Deep Learning</strong><br><br>
+      <strong>IAs Generativas & LLMs</strong><br>
       <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
       <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
       <img src="https://img.shields.io/badge/Manus-222222?style=for-the-badge" alt="Manus">
-      <br>
+      <br><br>
+      <strong>Deep Learning & Visão Computacional</strong><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
       <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning">
       <img src="https://img.shields.io/badge/EfficientNet-4B8BBE?style=for-the-badge" alt="EfficientNet">
       <img src="https://img.shields.io/badge/ResNet-DD0031?style=for-the-badge" alt="ResNet">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     </td>
   </tr>
 </table>
