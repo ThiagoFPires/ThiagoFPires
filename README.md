@@ -1,4 +1,4 @@
- <h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
+<h1 align="center">Olá! Eu sou o Thiago Freitas 👋</h1>
 <p align="center">
   <em>Estudante de Ciência da Computação apaixonado por criar soluções inovadoras com Python, VueJS e explorar o universo da Inteligência Artificial.</em>
 </p>
@@ -13,14 +13,15 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou um desenvolvedor Full-stack em formação com experiência em construir aplicações web modernas e eficientes. Tenho um forte interesse no ecossistema JavaScript/TypeScript e estou sempre buscando aprender e aplicar novas tecnologias, especialmente no campo de IAs generativas como Gemini e Llama3. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de sistemas e na integração de modelos de linguagem em projetos práticos.
+  <ul>
+    <li>🎓 <b>Graduando em Ciência da Computação</b>, focado em resolver problemas complexos através de código e inovação.</li>
+    <li>🧠 <b>Especialista em desenvolvimento de aplicações e automações</b> com consumo de recursos de Deep Learning e IAs generativas (como Gemini, Claude e Llama3).</li>
+  </ul>
+  Tenho forte atuação no ecossistema Python (utilizando frameworks como FastAPI e PyTorch) e na criação de integrações back-end robustas para sistemas corporativos e rotinas financeiras. Além disso, aplico tecnologias de visão computacional — como arquiteturas EfficientNet — para análise de imagens na área da saúde. Construo interfaces modernas e dinâmicas utilizando Vue.js e busco sempre projetar arquiteturas escaláveis, unindo o melhor do desenvolvimento full-stack com soluções avançadas de Inteligência Artificial e sistemas RAG.
   <br><br>
-  - 🔭 Atualmente trabalhando em um projeto chamado <b>TEKBOT</b>.
-  <br>
-  - 🌱 Aprendendo mais sobre Python, IA's e VueJS.
-  <br>
-  - 💬 Me pergunte sobre: IA, MongoDB, TypeScript.
-  <br>
+  - 🔭 Atualmente desenvolvendo o <b>TEKBOT</b> (chatbot inteligente para suporte a ERP) e pesquisando padrões em termogramas mamários usando Deep Learning.<br>
+  - 🌱 Aprofundando estudos em Transfer Learning, orquestração de LLMs locais com Ollama e arquitetura de software.<br>
+  - 💬 Me pergunte sobre: IA, Integrações de Sistemas, Python e Vue.js.<br>
   - 📫 Como me encontrar: <b>contato.thiagofreitasp@gmail.com</b>
 </p>
 
@@ -35,30 +36,36 @@
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </td>
     <td valign="top" width="50%">
       <strong>Back-end</strong><br><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Bancos de Dados</strong><br><br>
+      <strong>Bancos de Dados & Ferramentas</strong><br><br>
       <img src="https://img.shields.io/badge/Firebird-CC0000?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </td>
     <td valign="top" width="50%">
-      <strong>Inteligência Artificial & Ferramentas</strong><br><br>
+      <strong>Inteligência Artificial & Deep Learning</strong><br><br>
       <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
       <img src="https://img.shields.io/badge/Llama3-A020F0?style=for-the-badge" alt="Llama3">
       <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge" alt="Ollama">
-      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Manus-222222?style=for-the-badge" alt="Manus">
+      <br>
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning">
+      <img src="https://img.shields.io/badge/EfficientNet-4B8BBE?style=for-the-badge" alt="EfficientNet">
+      <img src="https://img.shields.io/badge/ResNet-DD0031?style=for-the-badge" alt="ResNet">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     </td>
   </tr>
 </table>
