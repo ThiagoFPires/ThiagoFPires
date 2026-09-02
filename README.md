@@ -13,10 +13,10 @@
 ### 🚀 Sobre Mim
 
 * 🎓 **Graduando em Ciência da Computação.**
-* 💼 **Especialista no desenvolvimento de back-ends corporativos**, rotinas financeiras complexas e integrações com hubs de e-commerce.
-* 🏗️ **Experiência sólida na construção de APIs escaláveis** (Python/FastAPI) e na modelagem de bancos de dados relacionais e NoSQL.
-* 💻 **Desenvolvimento de aplicações e interfaces dinâmicas** utilizando o ecossistema Vue.js, focadas em performance e usabilidade.
 * 🤖 **Criação de automações inteligentes**, integração de fluxos de sistemas e orquestração de IAs Generativas (Claude, Gemini, Ollama) para sistemas RAG, além de visão computacional com Deep Learning (PyTorch).
+* 🏗️ **Experiência sólida na construção de APIs escaláveis** (Python/FastAPI) e na modelagem de bancos de dados relacionais e NoSQL.
+* 💼 **Especialista no desenvolvimento de back-ends corporativos**, rotinas financeiras complexas e integrações com hubs de e-commerce.
+* 💻 **Desenvolvimento de aplicações e interfaces dinâmicas** utilizando o ecossistema Vue.js, focadas em performance e usabilidade.
 
 ---
 
